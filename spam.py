@@ -1,3 +1,4 @@
+#!/bin/bash
 import pyautogui
 import time
 def spam():
